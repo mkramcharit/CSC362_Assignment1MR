@@ -1,0 +1,33 @@
+# Clone the repository from GitHub
+
+git clone https://github.com/mkramcharit/CSC362_Assignment1MR.git
+
+
+
+# Change into the repository directory
+
+cd CSC362_Assignment1MR
+
+
+
+# To check the repository status
+
+git status
+
+
+
+# Add the C source file to staging
+
+git add question1.c
+
+
+
+# Commit the changes
+
+git commit -m "Add solution for CSC362 Assignment 1 Question 1"
+
+
+
+# Push the commit to GitHub
+
+git push
